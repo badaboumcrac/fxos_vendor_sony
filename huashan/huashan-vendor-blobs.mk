@@ -135,6 +135,8 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/etc/flashled_calc_parameters.cfg:system/etc/flashled_calc_parameters.cfg \
+    vendor/sony/huashan/proprietary/lib/hw/audio.primary.msm8960.so:system/lib/hw/audio.primary.msm8960.so \
+    vendor/sony/huashan/proprietary/lib/hw/audio_policy.msm8960.so:system/lib/hw/audio_policy.msm8960.so \
     vendor/sony/huashan/proprietary/lib/hw/vendor-camera.qcom.so:system/lib/hw/vendor-camera.qcom.so \
     vendor/sony/huashan/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/sony/huashan/proprietary/lib/hw/vendor-lights.default.so:system/lib/hw/vendor-lights.default.so \
@@ -147,6 +149,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/sony/huashan/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
     vendor/sony/huashan/proprietary/lib/libals.so:system/lib/libals.so \
+    vendor/sony/huashan/proprietary/lib/libalsa-intf.so:system/lib/libalsa-intf.so \
     vendor/sony/huashan/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
     vendor/sony/huashan/proprietary/lib/libcald_client.so:system/lib/libcald_client.so \
     vendor/sony/huashan/proprietary/lib/libcald_hal.so:system/lib/libcald_hal.so \
@@ -212,6 +215,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/sony/huashan/proprietary/lib/libs1sl.so:system/lib/libs1sl.so \
     vendor/sony/huashan/proprietary/lib/libsys-utils.so:system/lib/libsys-utils.so \
+    vendor/sony/huashan/proprietary/lib/libsurround_proc.so:system/lib/libsurround_proc.so \
     vendor/sony/huashan/proprietary/lib/libsysmon.so:system/lib/libsysmon.so \
     vendor/sony/huashan/proprietary/lib/libsysmon_idd.so:system/lib/libsysmon_idd.so \
     vendor/sony/huashan/proprietary/lib/libsysmon_jni.so:system/lib/libsysmon_jni.so \
