@@ -137,6 +137,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/etc/flashled_calc_parameters.cfg:system/etc/flashled_calc_parameters.cfg \
     vendor/sony/huashan/proprietary/lib/hw/audio.primary.msm8960.so:system/lib/hw/audio.primary.msm8960.so \
     vendor/sony/huashan/proprietary/lib/hw/audio_policy.msm8960.so:system/lib/hw/audio_policy.msm8960.so \
+    vendor/sony/huashan/proprietary/lib/hw/bluetooth.default.so:system/lib/hw/bluetooth.default.so \
     vendor/sony/huashan/proprietary/lib/hw/vendor-camera.qcom.so:system/lib/hw/vendor-camera.qcom.so \
     vendor/sony/huashan/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/sony/huashan/proprietary/lib/hw/vendor-lights.default.so:system/lib/hw/vendor-lights.default.so \
@@ -151,6 +152,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/lib/libals.so:system/lib/libals.so \
     vendor/sony/huashan/proprietary/lib/libalsa-intf.so:system/lib/libalsa-intf.so \
     vendor/sony/huashan/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
+    vendor/sony/huashan/proprietary/lib/libbt-hci.so:system/lib/libbt-hci.so \
+    vendor/sony/huashan/proprietary/lib/libbt-utils.so:system/lib/libbt-utils.so \
     vendor/sony/huashan/proprietary/lib/libcald_client.so:system/lib/libcald_client.so \
     vendor/sony/huashan/proprietary/lib/libcald_hal.so:system/lib/libcald_hal.so \
     vendor/sony/huashan/proprietary/lib/libcald_imageutil.so:system/lib/libcald_imageutil.so \
@@ -228,6 +231,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/vendor/lib/hw/power.qcom.so:system/vendor/lib/hw/power.qcom.so \
+    vendor/sony/huashan/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
     vendor/sony/huashan/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/sony/huashan/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/sony/huashan/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
