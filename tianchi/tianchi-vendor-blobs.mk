@@ -157,10 +157,13 @@ vendor/sony/tianchi/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/f
 vendor/sony/tianchi/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
 vendor/sony/tianchi/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
 vendor/sony/tianchi/proprietary/etc/firmware/cyttsp4_fw.bin:system/etc/firmware/cyttsp4_fw.bin \
+vendor/sony/tianchi/proprietary/lib/lib_asb_tee.so:system/lib/lib_asb_tee.so \
 vendor/sony/tianchi/proprietary/lib/libMiscTaAccessor.so:system/lib/libMiscTaAccessor.so \
+vendor/sony/tianchi/proprietary/lib/libcamera_clientsemc.so:system/lib/libcamera_clientsemc.so \
 vendor/sony/tianchi/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
 vendor/sony/tianchi/proprietary/lib/libidd.so:system/lib/libidd.so \
 vendor/sony/tianchi/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
+vendor/sony/tianchi/proprietary/lib/libkeyctrl.so:system/lib/libkeyctrl.so \
 vendor/sony/tianchi/proprietary/lib/liblights-core.so:system/lib/liblights-core.so \
 vendor/sony/tianchi/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
 vendor/sony/tianchi/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
@@ -170,6 +173,7 @@ vendor/sony/tianchi/proprietary/lib/libloc_xtra.so:system/lib/libloc_xtra.so \
 vendor/sony/tianchi/proprietary/lib/libmiscta.so:system/lib/libmiscta.so \
 vendor/sony/tianchi/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
 vendor/sony/tianchi/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
+vendor/sony/tianchi/proprietary/lib/libpin-cache.so:system/lib/libpin-cache.so \
 vendor/sony/tianchi/proprietary/lib/libprotobuf-c.so:system/lib/libprotobuf-c.so \
 vendor/sony/tianchi/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
 vendor/sony/tianchi/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
@@ -556,5 +560,12 @@ vendor/sony/tianchi/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/h
 vendor/sony/tianchi/proprietary/vendor/lib/hw/power.qcom.so:system/vendor/lib/hw/power.qcom.so \
 vendor/sony/tianchi/proprietary/vendor/lib/hw/sensors.msm8226.so:system/vendor/lib/hw/sensors.msm8226.so \
 vendor/sony/tianchi/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
+vendor/sony/tianchi/proprietary/vendor/lib/rfsa/adsp/libadsp_denoise_skel.so:system/vendor/lib/rfsa/adsp/libadsp_denoise_skel.so \
+vendor/sony/tianchi/proprietary/vendor/lib/rfsa/adsp/libdspCV_skel.so:system/vendor/lib/rfsa/adsp/libdspCV_skel.so \
+vendor/sony/tianchi/proprietary/vendor/lib/rfsa/adsp/libfastcvadsp.so:system/vendor/lib/rfsa/adsp/libfastcvadsp.so \
+vendor/sony/tianchi/proprietary/vendor/lib/rfsa/adsp/libfastcvadsp_skel.so:system/vendor/lib/rfsa/adsp/libfastcvadsp_skel.so \
+vendor/sony/tianchi/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
+vendor/sony/tianchi/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
+vendor/sony/tianchi/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
 vendor/sony/tianchi/proprietary/lib/libcnefeatureconfig.so:obj/lib/libcnefeatureconfig.so \
 vendor/sony/tianchi/proprietary/vendor/lib/libtime_genoff.so:obj/lib/libtime_genoff.so \
