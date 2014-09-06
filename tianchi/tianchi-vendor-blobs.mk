@@ -43,7 +43,6 @@ vendor/sony/tianchi/proprietary/bin/rild:system/bin/rild \
 vendor/sony/tianchi/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
 vendor/sony/tianchi/proprietary/bin/credmgrd:system/bin/credmgrd \
 vendor/sony/tianchi/proprietary/bin/display_color_calib:system/bin/display_color_calib \
-vendor/sony/tianchi/proprietary/bin/iddd:system/bin/iddd \
 vendor/sony/tianchi/proprietary/bin/illumination_service:system/bin/illumination_service \
 vendor/sony/tianchi/proprietary/bin/scd:system/bin/scd \
 vendor/sony/tianchi/proprietary/bin/scdnotifier:system/bin/scdnotifier \
@@ -57,7 +56,6 @@ vendor/sony/tianchi/proprietary/etc/audio_effects.conf:system/etc/audio_effects.
 vendor/sony/tianchi/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
 vendor/sony/tianchi/proprietary/etc/flp.conf:system/etc/flp.conf \
 vendor/sony/tianchi/proprietary/etc/gps.conf:system/etc/gps.conf \
-vendor/sony/tianchi/proprietary/etc/iddd.conf:system/etc/iddd.conf \
 vendor/sony/tianchi/proprietary/etc/izat.conf:system/etc/izat.conf \
 vendor/sony/tianchi/proprietary/etc/nfc-nci.conf:system/etc/nfc-nci.conf \
 vendor/sony/tianchi/proprietary/etc/sap.conf:system/etc/sap.conf \
@@ -559,4 +557,4 @@ vendor/sony/tianchi/proprietary/vendor/lib/hw/power.qcom.so:system/vendor/lib/hw
 vendor/sony/tianchi/proprietary/vendor/lib/hw/sensors.msm8226.so:system/vendor/lib/hw/sensors.msm8226.so \
 vendor/sony/tianchi/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
 vendor/sony/tianchi/proprietary/lib/libcnefeatureconfig.so:obj/lib/libcnefeatureconfig.so \
-vendor/sony/tianchi/proprietary/vendor/lib/libtime_genoff.so:obj/libtime_genoff.so \
+vendor/sony/tianchi/proprietary/vendor/lib/libtime_genoff.so:obj/lib/libtime_genoff.so \
