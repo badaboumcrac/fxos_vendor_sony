@@ -163,14 +163,10 @@ vendor/sony/tianchi/proprietary/lib/libMiscTaAccessor.so:system/lib/libMiscTaAcc
 vendor/sony/tianchi/proprietary/lib/libcamera_clientsemc.so:system/lib/libcamera_clientsemc.so \
 vendor/sony/tianchi/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
 vendor/sony/tianchi/proprietary/lib/libidd.so:system/lib/libidd.so \
-vendor/sony/tianchi/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
 vendor/sony/tianchi/proprietary/lib/libkeyctrl.so:system/lib/libkeyctrl.so \
 vendor/sony/tianchi/proprietary/lib/liblights-core.so:system/lib/liblights-core.so \
 vendor/sony/tianchi/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-vendor/sony/tianchi/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
 vendor/sony/tianchi/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
-vendor/sony/tianchi/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
-vendor/sony/tianchi/proprietary/lib/libloc_xtra.so:system/lib/libloc_xtra.so \
 vendor/sony/tianchi/proprietary/lib/libmiscta.so:system/lib/libmiscta.so \
 vendor/sony/tianchi/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
 vendor/sony/tianchi/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
@@ -199,10 +195,7 @@ vendor/sony/tianchi/proprietary/lib/libsysmon_jni.so:system/lib/libsysmon_jni.so
 vendor/sony/tianchi/proprietary/lib/libta.so:system/lib/libta.so \
 vendor/sony/tianchi/proprietary/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
 vendor/sony/tianchi/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
-vendor/sony/tianchi/proprietary/lib/hw/audio_policy.msm8226.so:system/lib/hw/audio_policy.msm8226.so \
-vendor/sony/tianchi/proprietary/lib/hw/audio.primary.msm8226.so:system/lib/hw/audio.primary.msm8226.so \
 vendor/sony/tianchi/proprietary/lib/hw/camera.msm8226.so:system/lib/hw/camera.vendor.msm8226.so \
-vendor/sony/tianchi/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
 vendor/sony/tianchi/proprietary/lib/hw/lights.default.so:system/lib/hw/lights.vendor.default.so \
 vendor/sony/tianchi/proprietary/lib/hw/nfc_nci_pn547.msm8226.so:system/lib/hw/nfc_nci_pn547.msm8226.so \
 vendor/sony/tianchi/proprietary/lib/sysmon/sysmon_batt_therm.so:system/lib/sysmon/sysmon_batt_therm.so \
