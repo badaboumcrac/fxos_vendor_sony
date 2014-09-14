@@ -44,7 +44,6 @@ vendor/sony/tianchi/proprietary/bin/ptt_socket_app:system/bin/ptt_socket_app \
 vendor/sony/tianchi/proprietary/bin/qcom-system-daemon:system/bin/qcom-system-daemon \
 vendor/sony/tianchi/proprietary/bin/qseecomd:system/bin/qseecomd \
 vendor/sony/tianchi/proprietary/bin/rfs_access:system/bin/rfs_access \
-vendor/sony/tianchi/proprietary/bin/rild:system/bin/rild \
 vendor/sony/tianchi/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
 vendor/sony/tianchi/proprietary/bin/credmgrd:system/bin/credmgrd \
 vendor/sony/tianchi/proprietary/bin/display_color_calib:system/bin/display_color_calib \
@@ -191,9 +190,6 @@ vendor/sony/tianchi/proprietary/lib/libnfc-nci.so:system/lib/libnfc-nci.so \
 vendor/sony/tianchi/proprietary/lib/libpin-cache.so:system/lib/libpin-cache.so \
 vendor/sony/tianchi/proprietary/lib/libprotobuf-c.so:system/lib/libprotobuf-c.so \
 vendor/sony/tianchi/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
-vendor/sony/tianchi/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
-vendor/sony/tianchi/proprietary/lib/libril.so:system/lib/libril.so \
-vendor/sony/tianchi/proprietary/lib/librilutils.so:system/lib/librilutils.so \
 vendor/sony/tianchi/proprietary/lib/libsys-utils.so:system/lib/libsys-utils.so \
 vendor/sony/tianchi/proprietary/lib/libsysmon.so:system/lib/libsysmon.so \
 vendor/sony/tianchi/proprietary/lib/libsysmon_idd.so:system/lib/libsysmon_idd.so \
