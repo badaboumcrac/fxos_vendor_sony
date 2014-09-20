@@ -115,6 +115,7 @@ vendor/sony/tianchi/proprietary/etc/firmware/modem.b25:system/etc/firmware/modem
 vendor/sony/tianchi/proprietary/etc/firmware/modem.b26:system/etc/firmware/modem.b26 \
 vendor/sony/tianchi/proprietary/etc/firmware/modem.b27:system/etc/firmware/modem.b27 \
 vendor/sony/tianchi/proprietary/etc/firmware/modem.mdt:system/etc/firmware/modem.mdt \
+vendor/sony/tianchi/proprietary/etc/firmware/nfc_test.bin:system/etc/firmware/nfc_test.bin \
 vendor/sony/tianchi/proprietary/etc/firmware/tzhdcp.b00:system/etc/firmware/tzhdcp.b00 \
 vendor/sony/tianchi/proprietary/etc/firmware/tzhdcp.b01:system/etc/firmware/tzhdcp.b01 \
 vendor/sony/tianchi/proprietary/etc/firmware/tzhdcp.b02:system/etc/firmware/tzhdcp.b02 \
@@ -223,6 +224,19 @@ vendor/sony/tianchi/proprietary/lib/sysmon/sysmon_tsens_tz_sensor5.so:system/lib
 vendor/sony/tianchi/proprietary/lib/sysmon/sysmon_usb_current_limit_value.so:system/lib/sysmon/sysmon_usb_current_limit_value.so \
 vendor/sony/tianchi/proprietary/lib/sysmon/sysmon_wlan_limit.so:system/lib/sysmon/sysmon_wlan_limit.so \
 vendor/sony/tianchi/proprietary/lib/sysmon/sysmon_xo_therm.so:system/lib/sysmon/sysmon_xo_therm.so \
+vendor/sony/tianchi/proprietary/vendor/camera/morpho_colorcorrection.cfg:system/vendor/camera/morpho_colorcorrection.cfg \
+vendor/sony/tianchi/proprietary/vendor/camera/morpho_denoiser.cfg:system/vendor/camera/morpho_denoiser.cfg \
+vendor/sony/tianchi/proprietary/vendor/camera/morpho_denoiser_subcam.cfg:system/vendor/camera/morpho_denoiser_subcam.cfg \
+vendor/sony/tianchi/proprietary/vendor/camera/morpho_denoiser_subcam_preview.cfg:system/vendor/camera/morpho_denoiser_subcam_preview.cfg \
+vendor/sony/tianchi/proprietary/vendor/camera/morpho_face_detection.cfg:system/vendor/camera/morpho_face_detection.cfg \
+vendor/sony/tianchi/proprietary/vendor/camera/morpho_hdr.cfg:system/vendor/camera/morpho_hdr.cfg \
+vendor/sony/tianchi/proprietary/vendor/camera/morpho_moviesolid.cfg:system/vendor/camera/morpho_moviesolid.cfg \
+vendor/sony/tianchi/proprietary/vendor/camera/morpho_photosolid.cfg:system/vendor/camera/morpho_photosolid.cfg \
+vendor/sony/tianchi/proprietary/vendor/camera/morpho_photosolid_subcam.cfg:system/vendor/camera/morpho_photosolid_subcam.cfg \
+vendor/sony/tianchi/proprietary/vendor/camera/morpho_posturedetect.cfg:system/vendor/camera/morpho_posturedetect.cfg \
+vendor/sony/tianchi/proprietary/vendor/camera/morpho_scenedetect.cfg:system/vendor/camera/morpho_scenedetect.cfg \
+vendor/sony/tianchi/proprietary/vendor/camera/morpho_super_resolution.cfg:system/vendor/camera/morpho_super_resolution.cfg \
+vendor/sony/tianchi/proprietary/vendor/camera/morpho_tracksolid.cfg:system/vendor/camera/morpho_tracksolid.cfg \
 vendor/sony/tianchi/proprietary/vendor/etc/audio_effects.conf:system/vendor/etc/audio_effects.conf \
 vendor/sony/tianchi/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
 vendor/sony/tianchi/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
