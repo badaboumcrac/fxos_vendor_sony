@@ -198,9 +198,15 @@ vendor/sony/tianchi/proprietary/lib/libsysmon_jni.so:system/lib/libsysmon_jni.so
 vendor/sony/tianchi/proprietary/lib/libta.so:system/lib/libta.so \
 vendor/sony/tianchi/proprietary/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
 vendor/sony/tianchi/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
-vendor/sony/tianchi/proprietary/lib/hw/camera.msm8226.so:system/lib/hw/camera.vendor.msm8226.so \
+vendor/sony/tianchi/proprietary/lib/hw/camera.msm8226.so:system/lib/hw/camera.msm8226.so \
 vendor/sony/tianchi/proprietary/lib/hw/lights.default.so:system/lib/hw/lights.vendor.default.so \
 vendor/sony/tianchi/proprietary/lib/hw/nfc_nci_pn547.msm8226.so:system/lib/hw/nfc_nci_pn547.msm8226.so \
+vendor/sony/tianchi/proprietary/lib/soundfx/libfnrwrapper.so:system/lib/soundfx/libfnrwrapper.so \
+vendor/sony/tianchi/proprietary/lib/soundfx/libposteffectwrapper.so:system/lib/soundfx/libposteffectwrapper.so \
+vendor/sony/tianchi/proprietary/lib/soundfx/libpreeffectwrapper.so:system/lib/soundfx/libpreeffectwrapper.so \
+vendor/sony/tianchi/proprietary/lib/soundfx/libqcompostprocbundle.so:system/lib/soundfx/libqcompostprocbundle.so \
+vendor/sony/tianchi/proprietary/lib/soundfx/libqcomvisualizer.so:system/lib/soundfx/libqcomvisualizer.so \
+vendor/sony/tianchi/proprietary/lib/soundfx/libqcomvoiceprocessing.so:system/lib/soundfx/libqcomvoiceprocessing.so \
 vendor/sony/tianchi/proprietary/lib/sysmon/sysmon_batt_therm.so:system/lib/sysmon/sysmon_batt_therm.so \
 vendor/sony/tianchi/proprietary/lib/sysmon/sysmon_charge_current_limit_level.so:system/lib/sysmon/sysmon_charge_current_limit_level.so \
 vendor/sony/tianchi/proprietary/lib/sysmon/sysmon_charging.so:system/lib/sysmon/sysmon_charging.so \
