@@ -157,6 +157,10 @@ vendor/sony/tianchi/proprietary/etc/firmware/cyttsp4_fw.bin:system/etc/firmware/
 vendor/sony/tianchi/proprietary/lib/lib_asb_tee.so:system/lib/lib_asb_tee.so \
 vendor/sony/tianchi/proprietary/lib/libMiscTaAccessor.so:system/lib/libMiscTaAccessor.so \
 vendor/sony/tianchi/proprietary/lib/libcamera_clientsemc.so:system/lib/libcamera_clientsemc.so \
+vendor/sony/tianchi/proprietary/lib/libchromatix_imx135_SEM13BS1_liveshot.so:system/vendor/lib/libchromatix_imx135_SEM13BS1_liveshot.so \
+vendor/sony/tianchi/proprietary/lib/libchromatix_imx135_SEM13BS1_video_hd.so:system/vendor/lib/libchromatix_imx135_SEM13BS1_video_hd.so \
+vendor/sony/tianchi/proprietary/lib/libchromatix_imx135_SOI13BS2_liveshot.so:system/vendor/lib/libchromatix_imx135_SOI13BS2_liveshot.so \
+vendor/sony/tianchi/proprietary/lib/libchromatix_imx135_SOI13BS2_video_hd.so:system/vendor/lib/libchromatix_imx135_SOI13BS2_video_hd.so \
 vendor/sony/tianchi/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
 vendor/sony/tianchi/proprietary/lib/libidd.so:system/lib/libidd.so \
 vendor/sony/tianchi/proprietary/lib/libkeyctrl.so:system/lib/libkeyctrl.so \
@@ -164,6 +168,10 @@ vendor/sony/tianchi/proprietary/lib/liblights-core.so:system/lib/liblights-core.
 vendor/sony/tianchi/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
 vendor/sony/tianchi/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
 vendor/sony/tianchi/proprietary/lib/libmiscta.so:system/lib/libmiscta.so \
+vendor/sony/tianchi/proprietary/lib/libmm-qcamera:system/lib/libmm-qcamera.so \
+vendor/sony/tianchi/proprietary/lib/libmmcamera_edyia_eeprom.so:system/lib/libmmcamera_edyia_eeprom.so \
+vendor/sony/tianchi/proprietary/lib/libmmcamera_holly_eeprom.so:system/lib/libmmcamera_holly_eeprom.so \
+vendor/sony/tianchi/proprietary/lib/libmmcamera_imx188.so:system/lib/libmmcamera_imx188.so \
 vendor/sony/tianchi/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
 vendor/sony/tianchi/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
 vendor/sony/tianchi/proprietary/lib/libmorpho_defocus_jni.so:system/lib/libmorpho_defocus_jni.so \
