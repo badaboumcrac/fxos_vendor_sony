@@ -169,7 +169,7 @@ vendor/sony/tianchi/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.
 vendor/sony/tianchi/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
 vendor/sony/tianchi/proprietary/lib/libmiscta.so:system/lib/libmiscta.so \
 vendor/sony/tianchi/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
-vendor/sony/tianchi/proprietary/lib/libmmcamera_edyia_eeprom.so:system/lib/libmmcamera_edyia_eeprom.so \
+vendor/sony/tianchi/proprietary/lib/libmmcamera_ediya_eeprom.so:system/lib/libmmcamera_ediya_eeprom.so \
 vendor/sony/tianchi/proprietary/lib/libmmcamera_holly_eeprom.so:system/lib/libmmcamera_holly_eeprom.so \
 vendor/sony/tianchi/proprietary/lib/libmmcamera_imx188.so:system/lib/libmmcamera_imx188.so \
 vendor/sony/tianchi/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
