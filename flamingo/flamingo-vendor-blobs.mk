@@ -176,7 +176,7 @@ vendor/sony/flamingo/proprietary/lib/liblights-core.so:system/lib/liblights-core
 vendor/sony/flamingo/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
 vendor/sony/flamingo/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
 vendor/sony/flamingo/proprietary/lib/libmiscta.so:system/lib/libmiscta.so \
-vendor/sony/flamingo/proprietary/lib/libmm-qcamera:system/lib/libmm-qcamera.so \
+vendor/sony/flamingo/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
 vendor/sony/flamingo/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
 vendor/sony/flamingo/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
 vendor/sony/flamingo/proprietary/lib/libmorpho_denoiser.so:system/lib/libmorpho_denoiser.so \
