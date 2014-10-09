@@ -31,6 +31,7 @@ vendor/sony/flamingo/proprietary/bin/port-bridge:system/bin/port-bridge \
 vendor/sony/flamingo/proprietary/bin/qmiproxy:system/bin/qmiproxy \
 vendor/sony/flamingo/proprietary/bin/qmuxd:system/bin/qmuxd \
 vendor/sony/flamingo/proprietary/bin/radish:system/bin/radish \
+vendor/sony/flamingo/proprietary/bin/rild:system/bin/rild \
 vendor/sony/flamingo/proprietary/bin/rmt_storage:system/bin/rmt_storage \
 vendor/sony/flamingo/proprietary/bin/time_daemon:system/bin/time_daemon \
 vendor/sony/flamingo/proprietary/bin/btnvtool:system/bin/btnvtool \
@@ -193,6 +194,9 @@ vendor/sony/flamingo/proprietary/lib/libmorpho_super_resolution.so:system/lib/li
 vendor/sony/flamingo/proprietary/lib/libnfc-nci.so:system/lib/libnfc-nci.so \
 vendor/sony/flamingo/proprietary/lib/libpin-cache.so:system/lib/libpin-cache.so \
 vendor/sony/flamingo/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
+vendor/sony/flamingo/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
+vendor/sony/flamingo/proprietary/lib/libril.so:system/lib/libril.so \
+vendor/sony/flamingo/proprietary/lib/librilutils.so:system/lib/librilutils.so \
 vendor/sony/flamingo/proprietary/lib/libsys-utils.so:system/lib/libsys-utils.so \
 vendor/sony/flamingo/proprietary/lib/libta.so:system/lib/libta.so \
 vendor/sony/flamingo/proprietary/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
