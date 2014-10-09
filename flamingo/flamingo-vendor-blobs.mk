@@ -201,7 +201,7 @@ vendor/sony/flamingo/proprietary/lib/libsys-utils.so:system/lib/libsys-utils.so 
 vendor/sony/flamingo/proprietary/lib/libta.so:system/lib/libta.so \
 vendor/sony/flamingo/proprietary/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
 vendor/sony/flamingo/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
-vendor/sony/flamingo/proprietary/lib/hw/camera.msm8226.so:system/lib/hw/camera.msm8226.so \
+vendor/sony/flamingo/proprietary/lib/hw/camera.msm8226.so:system/lib/hw/camera.vendor.msm8226.so \
 vendor/sony/flamingo/proprietary/lib/hw/lights.msm8226.so:system/lib/hw/lights.vendor.msm8226.so \
 vendor/sony/flamingo/proprietary/lib/hw/nfc_nci_pn547.default.so:system/lib/hw/nfc_nci_pn547.default.so \
 vendor/sony/flamingo/proprietary/lib/soundfx/libposteffectwrapper.so:system/lib/soundfx/libposteffectwrapper.so \
